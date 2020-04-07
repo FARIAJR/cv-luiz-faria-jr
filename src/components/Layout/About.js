@@ -8,9 +8,9 @@ function About(){
                     <span className="text-primary"> Faria Jr.</span>
                 </h1>
                 <div className="subheading mb-5">Rua Antonio Bernardes Pinto, 2964 - Vila Chico Julio, Franca SP - 14405-233 - +55 16 99190-0711
-                    <a href="mailto:luiz.fariajr@outlook.com">luiz.fariajr@outlook.com</a>
+                    <a href="mailto:luiz.fariajr@outlook.com"> luiz.fariajr@outlook.com</a>
                 </div>
-                <p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                <p className="lead mb-5">In construction.</p>
                 <div className="social-icons">
                     <a href="https://www.linkedin.com/in/luiz-faria-junior-a6515813b/" target="__blank">
                         <i className="fab fa-linkedin-in"></i>
