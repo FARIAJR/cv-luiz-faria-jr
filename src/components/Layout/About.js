@@ -12,18 +12,18 @@ function About(){
                 </div>
                 <p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
                 <div className="social-icons">
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/luiz-faria-junior-a6515813b/" target="__blank">
                         <i className="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="#">
+                    <a href="https://github.com/FARIAJR/" target="__blank">
                         <i className="fab fa-github"></i>
                     </a>
-                    <a href="#">
+                    {/* <a href="#">
                         <i className="fab fa-twitter"></i>
                     </a>
                     <a href="#">
                         <i className="fab fa-facebook-f"></i>
-                    </a>
+                    </a> */}
                 </div>
             </div>
         </section>
