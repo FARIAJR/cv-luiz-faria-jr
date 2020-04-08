@@ -3,7 +3,7 @@ import axios from 'axios';
 // import Auth from '../components/Utils/Auth'
 // import Toastr from '../components/Toastr';
 
-const urlBase = "http://localhost:3333"//+window.location.hostname//+":8080"
+const urlBase = "https://backend-luiz-faria-jr.herokuapp.com";// "http://localhost:3333"//+window.location.hostname//+":8080"
 var port='';
 
 export default class Requests {
