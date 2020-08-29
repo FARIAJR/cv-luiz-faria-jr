@@ -14,6 +14,8 @@ import '../node_modules/font-awesome/css/font-awesome.min.css'
 import './global/vendor/fontawesome-free/css/all.min.css'
 // css custom
 import './global/css/resume.css'
+import 'jquery'
+import './global/js/resume'
 
 ReactDOM.render(
   <React.StrictMode>
